@@ -1,0 +1,73 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: left;
+}
+
+ul {
+    font-family: sans-serif;
+    text-align: left;
+    color: gray;
+}
+
+footer {
+    background-color: rgb(112, 122, 126);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    padding: 40px;
+}
+
+#prote {
+    color: violet;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#carbs {
+    color: violet;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#carbsfib {
+    color: violet;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#fruta {
+    color: violet;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#grasa {
+    color: violet;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#legu {
+    color: violet;
+    font-size: 18px;
+    font-weight: bold;
+
+}
