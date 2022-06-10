@@ -3,8 +3,66 @@
     margin: 0;
     padding: 0;  
   }
-  
+
   html {
       font-size: 62.5%;  
   }
   
+  .header {
+      font-size: 1.6rem;
+      background-color: #edece9;
+  }
+
+  .header__logo, .nav, .nav__list li {
+      display: inline-block;
+      margin: 5px;
+  }
+
+  .nav {
+      position: absolute;
+      right: 0;
+  }
+
+  .nav__list {
+      list-style: none;
+  }
+
+  .nav__list li a {
+      text-decoration: none;
+      color: #1b1e23;
+  }
+
+  .main {
+      height: 500px;
+  }
+
+  .catalog {
+      display: inline-block;
+      height: 100%;
+      padding: 10px;
+      background-color: #bfe2de;
+  }
+
+  .catalog__paints img {
+      display: block;
+      margin: 5px 0;
+      border-radius: 10px;
+  }
+
+  .content {
+      display: inline-block;
+      height: 500px;
+      width: 100%;
+      padding: 10px;
+      position: absolute;
+      background-color: #dee5de;
+  }
+
+  .footer {
+      padding: 20px;
+      width: 100%;
+      position: absolute;
+      text-align: center;
+      background-color: #15151b;
+      color: #fffefc;
+  }
