@@ -1,0 +1,37 @@
+/* * {
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;  
+} */
+
+html {
+    font-size: 62.5%;  
+}
+
+.block-elements {
+    font-size: 1.6rem;
+    color: aliceblue;
+    background-color: green;
+    margin: 10px;
+    padding: 20px;
+}
+
+span {
+    font-size: 1.6rem;
+}
+
+.nav{
+    font-size: 1.6rem;
+    background-color: peachpuff;
+    padding: 20px;
+    list-style: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 1.7rem;
+    margin: 10px 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
