@@ -37,9 +37,9 @@
   }
 
   .catalog {
-      display: inline-block;
-      height: 100%;
-      padding: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
       background-color: #bfe2de;
   }
 
